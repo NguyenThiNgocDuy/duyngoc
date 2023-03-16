@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>txt_Password</name>
+   <name>txt_InputUserID</name>
    <tag></tag>
-   <elementGuidId>f44c8ef9-dcaa-4861-b23f-14fa45d79d4d</elementGuidId>
+   <elementGuidId>c7d3b9bf-57a7-4347-9ae6-efcb503122b5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id=&quot;login_password&quot;]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

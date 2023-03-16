@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>txt_SoDT</name>
+   <name>Href_HereLink</name>
    <tag></tag>
-   <elementGuidId>90bc9e2f-bacd-4d57-8fec-104b7075b6e6</elementGuidId>
+   <elementGuidId>d102f7bd-97bf-4531-89a4-dc7930e35c31</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id=&quot;login_username&quot;]</value>
+         <value>//ol//a[contains(@href,&quot;http://demo.guru99.com/&quot;)]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

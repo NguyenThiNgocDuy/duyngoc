@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>lable_ValidateMessage</name>
+   <name>txt_EmailID</name>
    <tag></tag>
-   <elementGuidId>9a16cad9-7398-4338-a94d-82ad5601ebc8</elementGuidId>
+   <elementGuidId>c9497df1-1123-4562-9499-1c8989c88b9c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/div[contains(@class,&quot;fhs-login-msg&quot;)]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@type=&quot;text&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

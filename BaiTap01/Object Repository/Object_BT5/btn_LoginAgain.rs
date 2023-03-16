@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Tab_DangNhap</name>
+   <name>btn_LoginAgain</name>
    <tag></tag>
-   <elementGuidId>7e467e7c-9fa1-4449-97f1-a5a9319ca725</elementGuidId>
+   <elementGuidId>2ce71fb8-fbd9-4507-b0dc-c471e37d258f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[contains(@class,&quot;popup-login-tab-login&quot;)]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@type=&quot;submit&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
